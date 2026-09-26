@@ -1,0 +1,27 @@
+{
+  "databases": [
+    "https://raw.githubusercontent.com/Edgar1736/my-fivem-database/main/database.json",
+    "https://raw.githubusercontent.com/Edgar1736/my-fivem-database/main/keys.json"
+  ],
+
+  "keys": [
+    {
+      "admin": true,
+      "expires": "lifetime",
+      "key": "4909449640104063625",
+      "user": "Edgar"
+    },
+    {
+      "admin": true,
+      "expires": "lifetime",
+      "key": "4914789361027298292",
+      "user": "Dxs"
+    },
+    {
+      "admin": false,
+      "expires": "2026-12-31",
+      "key": "PLAYER-CHANGE-THIS-2",
+      "user": "Player2"
+    }
+  ]
+}
